@@ -1,0 +1,7 @@
+*~
+*.[oa]
+*.pyc
+.project
+.pydevproject
+my_*.py
+*.o???????
